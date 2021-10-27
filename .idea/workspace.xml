@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c75e05ab-4767-41b9-a505-aa775d3cf7eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XC5lG09UcV77EULMkbDFlVLEQp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\SpaceInvader" />
+      <recent name="C:\Users\USER\PycharmProjects\SpaceInvader\venv" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpaceInvader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c75e05ab-4767-41b9-a505-aa775d3cf7eb" name="Default Changelist" comment="" />
+      <created>1580537384747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580537384747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2014" y="150" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580537737333">
+      <screen x="1920" y="3" width="1280" height="984" />
+    </state>
+    <state x="2014" y="150" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.3.1280.984/0.0.1920.1040@1920.3.1280.984" timestamp="1580537737333" />
+    <state width="1899" height="250" key="GridCell.Tab.0.bottom" timestamp="1580581188464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="250" key="GridCell.Tab.0.bottom/1920.3.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1580581188464" />
+    <state width="1259" height="250" key="GridCell.Tab.0.bottom/1920.3.1280.984/0.0.1920.1040@1920.3.1280.984" timestamp="1580555370435" />
+    <state width="1899" height="250" key="GridCell.Tab.0.center" timestamp="1580581188464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="250" key="GridCell.Tab.0.center/1920.3.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1580581188464" />
+    <state width="1259" height="250" key="GridCell.Tab.0.center/1920.3.1280.984/0.0.1920.1040@1920.3.1280.984" timestamp="1580555370435" />
+    <state width="1899" height="250" key="GridCell.Tab.0.left" timestamp="1580581188463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="250" key="GridCell.Tab.0.left/1920.3.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1580581188463" />
+    <state width="1259" height="250" key="GridCell.Tab.0.left/1920.3.1280.984/0.0.1920.1040@1920.3.1280.984" timestamp="1580555370434" />
+    <state width="1899" height="250" key="GridCell.Tab.0.right" timestamp="1580581188464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="250" key="GridCell.Tab.0.right/1920.3.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1580581188464" />
+    <state width="1259" height="250" key="GridCell.Tab.0.right/1920.3.1280.984/0.0.1920.1040@1920.3.1280.984" timestamp="1580555370435" />
+    <state x="1977" y="53" width="1207" height="934" key="SettingsEditor" timestamp="1580550563959">
+      <screen x="1920" y="3" width="1280" height="984" />
+    </state>
+    <state x="1977" y="53" width="1207" height="934" key="SettingsEditor/1920.3.1280.984/0.0.1920.1040@1920.3.1280.984" timestamp="1580550563959" />
+    <state x="503" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1580662515025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="503" y="334" key="com.intellij.ide.util.TipDialog/1920.3.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1580662515025" />
+    <state x="2255" y="319" key="com.intellij.ide.util.TipDialog/1920.3.1280.984/0.0.1920.1040@1920.3.1280.984" timestamp="1580554194331" />
+    <state x="444" y="178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580556027513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="444" y="178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.3.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1580556027513" />
+  </component>
+</project>
